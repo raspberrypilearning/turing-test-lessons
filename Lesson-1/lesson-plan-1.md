@@ -1,4 +1,4 @@
-## Lesson 1 - How do computers think? 
+## Lesson 1 - How do Computers Think? 
 
 ###Introduction
 
@@ -16,7 +16,6 @@ How do computers think? In this lesson students will consider how computers and 
 
 - Know that computers run programs that are a sequence of instructions to make something happen. 
 - write a simple program 
-
 
 **Most students are able to:**
 
@@ -42,6 +41,8 @@ Throughout the race ensure that students are using instructions like "step forwa
 
 After the race has been won, discuss any problems the teams encountered getting their robot to  follow their instructions. Draw out through questioning that the robot could not make decisions for itself and so they had to be really specific about turns and steps.
 
+Explain that a computer works by executing statements one after another in a specific order. A given order of statements is called a **program**. Each program executes with a given **control flow** which describes which statement we are executing and what the next statement will be.
+
 ### Main Development
 
 1. Have a demonstration Raspberry Pi already connected and final chatting robot program running. Hold up an RPi board and ask the students what they think it is. Explain that it’s actually a computer and that in the coming lessons we’re going to do something special with it. Instead of running apps and games other people have created for us, we’re going to learn to write our own software - to make a robot that chats to us.
@@ -58,7 +59,7 @@ After the race has been won, discuss any problems the teams encountered getting 
 
 4. Explain to students that **IDLE3** is an application or environment that allows you to write a simple program using the programming language **Python**. It allows you to write, edit and run code. 
 
-5. Show students how to draw a shape by typing a sequence of instructions, line by line. See the [Student Instructions]() on the steps required to complete this task.
+5. Show students how to draw a shape by typing a sequence of instructions, line by line. See the [Student Instructions](https://github.com/raspberrypilearning/turing-test-lessons/blob/master/Lesson-1/student-instructions-1.md) on the steps required to complete this task.
 
 6. Ask students to shutdown their Raspberry Pis by clicking on the **Shut Down** icon on the desktop. 
 
@@ -72,8 +73,6 @@ Write the following list of words in the board.
 - IDLE3
 
 Select a student randomly from the class. They must select one of the words from the board, stand up and point to someone else in the class who must then give the meaning of the word. That person then chooses the next person to pose a word.
-
-A computer works by executing statements one after another in a specific order. A given order of statements is called a **program**. Each program executes with a given **control flow** which describes which statement we are executing and what the next statement will be.
 
 ### Homework
 
