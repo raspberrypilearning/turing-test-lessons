@@ -1,6 +1,6 @@
 ## The Turing Test
 
-![](http://openclipart.org/image/800px/svg_to_png/60415/robot.png)
+![](robot.png)
 
 ### Introduction
 
