@@ -55,7 +55,8 @@ For the majority of the lesson, it is suggested that work is carried out by stud
 
 ###Lessons
 
-- Lesson 1: Getting started with Python Programming
-- Lesson 2: Make a Chat Bot
+- [Lesson 1: How do Computers Think?](/Lesson-1/lesson-plan-1.md)
+- Lesson 2: Can Computers Think for Themselves?
+- Lesson 3: Make a Chatting Robot
 
 ###Community
