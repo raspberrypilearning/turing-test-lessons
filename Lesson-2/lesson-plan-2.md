@@ -40,7 +40,7 @@ Students may ask questions of the chat bot. Ask them to note any answers that do
 
 Ask the students why is it so hard for programs like these to understand and interact with humans? Why is it so easy to confuse?
 
-Explain the concept of the ‘Turing Test’ and artificial intelligence. Explain that in this lesson students will add text-to-speech to their Python programs on the Raspberry Pi to turn them into a Chat Bot
+Explain the concept of the [Turing Test](http://en.wikipedia.org/wiki/Turing_test) and artificial intelligence. Explain that in this lesson students will add text-to-speech to their Python programs on the Raspberry Pi to turn them into a Chatting Robot.
 
 
 Why not? Draw out from questioning that computers execute or run programs that follow a sequence of instructions, and that they can only follow this sequence. 
@@ -60,7 +60,7 @@ Why not? Draw out from questioning that computers execute or run programs that f
 
 4. Explain to students that when you are writing many lines of code in a program it can become tiresome to use the interpreter and should you want to save your code, that it is better to use a text editor. Show students how to create a new text editor file by clicking on **File>New Window** from the menu at the top of the **IDLE3** window. Show students how to save this file, by clicking on **File>Save As** and naming it `name1.py`.
 
-5. Direct students to type the following code into the test editor window. Point out the difference between a comment and a line of code. Also explain a string.
+5. Direct students to type the following code into the test editor window. Point out the difference between a comment and a line of code. Comments are parts of a program that are ignored by the computer so we can make notes about what is happening in the program. 
 
 	```python
 	
@@ -69,6 +69,8 @@ Why not? Draw out from questioning that computers execute or run programs that f
 	name = input('what is your name: '),
 	print("Nice to meet you ", name)
 	```
+	
+	*Note that the spaces before `"` in the string are important.*
 
 6. Students can then add their own input and print statements perhaps asking for the users age, or their favourite colour. For example adding:
 
