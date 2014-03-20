@@ -41,16 +41,17 @@ Over the course of three lessons, students will learn:
 
 ###Resources
 
-For the majority of the lesson, it is suggested that work is carried out by students on a Raspberry Pi in pairs. Each pair should have access to the standard equipment described below:
+For the majority of the lesson, it is suggested that work is carried out by students on a Raspberry Pi each or in pairs. Each student or pair should have access to the standard equipment described below:
 
-- A Raspberry Pi per pair connected to a local network;
-- Latest NOOBS SD card with the Sonic Pi software installed per pair;
+- A Raspberry Pi per pair;
+- Latest NOOBS SD card with Raspbian installed per pair;
+- espeak downloaded and installed on each SD card;
 - A keyboard and mouse connected to the RPi per pair;
 - A monitor connected to the RPi per pair;
-- A headphone splitter connected to the RPi audio jack per pair;
-- A pair of headphones connected to the splitter per student.
+- A headphone splitter connected to the RPi audio jack per pair from lesson 3 onwards;
+- A pair of headphones connected to the splitter per student from lesson 3 onwards.
 
-*Note: These lessons will use Python 3 syntax*
+*Note: These lessons will use Python 3*
 
 
 ###Lessons
