@@ -1,4 +1,4 @@
-## Lesson 3 - Getting Started with Python Programming 
+## Lesson 3 - Turning Text Into Sound
 
 ###Introduction
 
@@ -7,9 +7,8 @@ This lesson will give an introduction to Python Programming by writing a simple 
 
 ### Learning Objectives
 
-- Know that computers follow a sequence of instructions to make something happen.
-- Understand how to use the Python Programming environment IDLE3.
-- Be able to create and debug a simple computer program in Python using print and user input.
+- Be able to add code to our Python programs on the Raspberry Pi to allow text to speak.
+
 
 
 ### Learning Outcomes

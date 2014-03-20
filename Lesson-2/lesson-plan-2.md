@@ -71,6 +71,12 @@ Why not? Draw out from questioning that computers execute or run programs that f
 	```
 	
 	*Note that the spaces before `"` in the string are important.*
+	
+	Save the file as a python file by clicking on **File** then **Save As** and naming it **robot**.
+	
+	Then run the file by clicking on **Run** then **Run Module**
+	
+	![](program-1.png)
 
 6. Students can then add their own input and print statements perhaps asking for the users age, or their favourite colour. For example adding:
 
