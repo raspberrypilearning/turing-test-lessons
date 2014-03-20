@@ -2,7 +2,7 @@
 
 ###Introduction
 
-This lesson will give an introduction to Python Programming by writing a simple program to gain user input, and then print statements to the screen. It is a step up from using a visual programing language and Scratch could be used instead.
+This lesson will teach students how to take their chatting robot programs, that currently print the conversation to the screen and turn them into speaking robots where they can hear their robot ask the question. Students will need access to heaphones in order to hear the sounds. You may also require a speaker to demonstrate to the class.
 
 
 ### Learning Objectives
@@ -34,6 +34,7 @@ This lesson will give an introduction to Python Programming by writing a simple 
 
 ### Starter
 
+Ask students to feedback their homework from the previous lesson 
 
 
 
@@ -43,30 +44,7 @@ This lesson will give an introduction to Python Programming by writing a simple 
 
 	*Note that students will not see any text when typing the password but rest assured it is working. Why do you think this might be the case? Hint: What might happen if someone was looking over your shoulder?*
 	
-2. Next students should load the graphical user interface by typing `startx`. To use Python, students will need to access the programming environment, **IDLE3**. To open IDLE3, students can either double click on the IDLE3 icon on the desktop or click on the main menu and select Programming, followed by IDLE 3.
-
-	![](idle3.png)
-
-3. Demonstrate to students the IDLE interpreter window. Explain that commands can be typed directly into this window after the prompt which looks like this:  `>>>` This window is referred to as the interpreter or shell. You can type a line of code after this prompt and press enter. This will run that line of code. You can demonstrate this with `print("Hello World!")`. Ask students what they could replace the “Hello World” with. Have them experiment using the interpreter window for a few minutes. Explain that the computer can only follow one instruction at a time, in **sequence**. 
-
-4. Explain to students that when you are writing many lines of code in a program it can become tiresome to use the interpreter and should you want to save your code, that it is better to use a text editor. Show students how to create a new text editor file by clicking on **File>New Window** from the menu at the top of the **IDLE3** window. Show students how to save this file, by clicking on **File>Save As** and naming it `name1.py`.
-
-5. Ask students to type the following code into the test editor window. Point out the difference between a comment and a line of code. Also explain a string.
-
-	```python
-	
-	# My Python Program by ....
-	
-	name = input('what is your name: '),
-	print("Nice to meet you ", name)
-	```
-
-6. Students can then add their own input and print statements perhaps asking for the users age, or their favourite colour. For example adding:
-
-	```python
-	
-	age = input('How old are you: ')
-	print("You do not look like you are aged ", age)
+2. N
 	```
 
 ### Plenary
@@ -75,5 +53,5 @@ This lesson will give an introduction to Python Programming by writing a simple 
 
 ### Homework
 
-Students should think of five questions that they would like their chatting robot to ask ready for the next lesson.
+
 
