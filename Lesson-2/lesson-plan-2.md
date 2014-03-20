@@ -89,7 +89,11 @@ Why not? Draw out from questioning that computers execute or run programs that f
 	
 	![](program-2.png)
 	
-7. Continue with the students writing code to gain user input and post information tot he screen. Then ask students to save their work and shut down the Raspberry Pis by clicking on the **Shutdown** button on the desktop.
+7. Once students have working programs with multiple questions, introduce the idea of spacing out the questions asked with time. In a conversation there is usually a pause between answering a question and asking the next one. The goal is to create a chatting robot that might be confused for a real person, therefore we need to place a pause in between the questions. This can be achieved using the time module. To add the module students will neeed to add `import time` underneath the comment and before the questions. Then between the questions they will need to use `time.sleep(1)` where the value 1 represents 1 second like this:
+
+	![](program-3.png)
+
+8. Continue with the students writing code to gain user input and post information tot he screen. Then ask students to save their work and shut down the Raspberry Pis by clicking on the **Shutdown** button on the desktop.
 
 ### Plenary
 

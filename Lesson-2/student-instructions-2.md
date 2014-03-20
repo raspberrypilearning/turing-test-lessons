@@ -70,3 +70,23 @@ You are going to write a program to make a drawing of a shape.
 	
 	![](program-2.png)
 	
+4. In a conversation there is usually a pause between answering a question and asking the next one. The goal is to create a chatting robot that might be confused for a real person, therefore we need to place a pause in between the questions. 
+
+	This can be achieved using the **time module**. 
+	
+	Add the module by typing `import time` underneath the comment at the top of the program and before the questions. Then between the questions type `time.sleep(1)` where the value `1` represents 1 second like this:
+	
+	```python
+	# My Python Program by...
+	import time
+	
+	name = input('What is your name')
+	print("Nice to meet you ", name)
+	
+	time.sleep(1)
+	
+	age = input('How old are you: ')
+	print("You do not look like you are aged ", age)
+	```
+
+	![](program-3.png)
