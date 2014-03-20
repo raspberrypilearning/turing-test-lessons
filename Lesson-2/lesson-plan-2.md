@@ -85,6 +85,11 @@ Why not? Draw out from questioning that computers execute or run programs that f
 	age = input('How old are you: ')
 	print("You do not look like you are aged ", age)
 	```
+	Direct students to save the file and run the code as before.
+	
+	![](program-2.png)
+	
+7. Continue with the students writing code to gain user input and post information tot he screen. Then ask students to save their work and shut down the Raspberry Pis by clicking on the **Shutdown** button on the desktop.
 
 ### Plenary
 
