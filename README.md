@@ -52,6 +52,7 @@ For the majority of the lesson, it is suggested that work is carried out by stud
 
 *Note: These lessons will use Python 3*
 
+See the [teacher setup instructions](/teacher-instructions.md) for more information.
 
 ###Lessons
 
