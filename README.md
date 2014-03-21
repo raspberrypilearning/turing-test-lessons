@@ -18,7 +18,6 @@ Over the course of three lessons, students will learn:
 - What is meant by artificial intelligence, in particular relating to the Turing Test.
 - Computer Science concepts:
 	- Sequencing
-	- Algorithms
 	- Debugging
 	- User input
 	- Print Statements
