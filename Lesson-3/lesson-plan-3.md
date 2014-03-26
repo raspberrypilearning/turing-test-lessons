@@ -1,6 +1,6 @@
-## Lesson 3 - Turning Text Into Sound
+# Lesson 3 - Turning Text Into Sound
 
-###Introduction
+##Introduction
 
 This lesson will teach students how to take their chatting robot programs, that currently print the conversation to the screen and turn them into speaking robots where they can hear their robot ask the question. 
 
@@ -10,38 +10,38 @@ Students will need access to heaphones in order to hear the sounds. You may also
 
 Finally you will need to ensure that sound is being forced to headphones rather than HDMI by typing: `amixer cset numid=3 1` or by double clicking on the python games icon and selecting **Force Headphones**
 
-### Learning Objectives
+## Learning Objectives
 
 - Identify and use input and output devices on a Raspberry Pi
 - Be able to add code to chatting robot programs on the Raspberry Pi to allow text to speak
 - Test and evaluate chatting robot programs created so far
 
 
-### Learning Outcomes
+## Learning Outcomes
 
-**All students are able to:**
+###All students are able to:
 
 - identify an input and an output device on a Raspberry Pi computer.
 - add some code to a chatting robot program to allow text to speak.
 
 
-**Most students are able to:**
+###Most students are able to:
 
 - test and provide feedback to their peers on their chatting robot program.
 - Identify ways in which 
 
-**Some stufents are able to:**
+###Some stufents are able to:
 
 - Devise ways in which to improve the chatting robot program through evaluation.
 
 
-### Lesson Summary
+## Lesson Summary
 
 - A parts labelling activity 
 - Adding text to speak
 - Improved python programs
 
-### Starter
+## Starter
 
 Place at least four, if not more, sets of the following, or what you can find from the list out on desks unconncected: 
 - Raspberry Pi, 
@@ -62,7 +62,7 @@ After students have labelled the components ask groups to explain their answers.
 
 ![](audio_output.png)
 
-### Main Development
+## Main Development
 
 1. Ask students to set up their Raspberry Pi equipment, turn it on and log into their Pi using the username `pi` and the password `raspberry`. They should then load their chatting robot programs using **IDLE3**
 	
@@ -95,7 +95,7 @@ After students have labelled the components ask groups to explain their answers.
 
 	![](espeak2.png)
 
-### Plenary
+## Plenary
 
 Direct students to swap seats with a partner. They have a few minutes test their partners programs and suggest at least one improvement by writing a comment using the `#` symbol. Students should then return to their programs and make the suggested improvement.
 
