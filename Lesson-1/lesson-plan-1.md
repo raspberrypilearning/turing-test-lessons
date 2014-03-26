@@ -1,39 +1,39 @@
-## Lesson 1 - How do Computers Think? 
+# Lesson 1 - How do Computers Think? 
 
-###Introduction
+##Introduction
 
 How do computers think? In this lesson students will consider how computers and robots needs to follow a sequence of instructions to complete a task. Much of this lesson is dedicated to getting studnts using a Raspbery Pi for the first time, logging in, access IDLE3 and typing a small sequence of instructions to make a shape.
 
-### Learning Objectives
+## Learning Objectives
 
 - Know that computers follow a sequence of instructions to make something happen.
 - Be able to set up a Raspberry Pi and give a set of instructions in Python to make a shape.
 
 
-### Learning Outcomes
+## Learning Outcomes
 
-**All students are able to:**
+###All students are able to:
 
 - Know that computers run programs that are a sequence of instructions to make something happen. 
 - write a simple program 
 
-**Most students are able to:**
+###Most students are able to:
 
 - Know that Python is a computer programming language.  
 - write a simple Python Program, and explain the sequence it is following.
 
-**Some stufents are able to:**
+###Some stufents are able to:
 
 - write a program to crate a more complex shape.
 
 
-### Lesson Summary
+## Lesson Summary
 
 - An introduction to the basic physical parts of a RPi
 - A demonstration that the RPi can behave like a traditional computer application
 - The first Python program
 
-### Starter
+## Starter
 
 First nominate three or four students to act as robots. Then divide the reamining students into three or four teams. Each team are in a race to see who can get a 'robot' around the classroom or 'maze'. *Note this could be a outdoor task* Explain to the 'robots' that they are to play dumb and only follow the instructions they are given. Then begin the race.
 
@@ -43,7 +43,7 @@ After the race has been won, discuss any problems the teams encountered getting 
 
 Explain that a computer works by executing statements one after another in a specific order. A given order of statements is called a **program**. Each program executes with a given **control flow** which describes which statement we are executing and what the next statement will be.
 
-### Main Development
+## Main Development
 
 1. Have a demonstration Raspberry Pi already connected and final chatting robot program running. Hold up an RPi board and ask the students what they think it is. Explain that it’s actually a computer and that in the coming lessons we’re going to do something special with it. Instead of running apps and games other people have created for us, we’re going to learn to write our own software - to make a robot that chats to us.
 
@@ -63,7 +63,7 @@ Explain that a computer works by executing statements one after another in a spe
 
 6. Ask students to shutdown their Raspberry Pis by clicking on the **Shut Down** icon on the desktop. 
 
-### Plenary
+## Plenary
 
 Write the following list of words in the board. 
 - instructions
@@ -74,7 +74,7 @@ Write the following list of words in the board.
 
 Select a student randomly from the class. They must select one of the words from the board, stand up and point to someone else in the class who must then give the meaning of the word. That person then chooses the next person to pose a word.
 
-### Homework
+## Homework
 
 Students should write a sequence of instructions for a task such as getting dressed for school or their favourite dance moves.
 
