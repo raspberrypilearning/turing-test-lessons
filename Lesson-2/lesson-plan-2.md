@@ -1,38 +1,38 @@
-## Lesson 2 - Can Computers Think for Themselves? 
+# Lesson 2 - Can Computers Think for Themselves? 
 
-###Introduction
+##Introduction
 
 This lesson will give an introduction to Python Programming by writing a simple program to gain user input, and then print statements to the screen. It builds on lesson 1 using IDLE 3 to program in Python 3.
 
 
-### Learning Objectives
+## Learning Objectives
 
 - Know how to debug code
 - Understand the differences between speaking to a human and speaking to a computer program
 - Be able to create and debug a simple computer program in Python using print and user input
 
 
-### Learning Outcomes
+## Learning Outcomes
 
-**All students are able to:**
+###All students are able to:
 
 - Be able to write a simple Python Program and check that it works.
 
-**Most students are able to:**
+###Most students are able to:
 
 - Know that Python is a computer programming language.  
 - Be able to write a simple Python Program, and explain the sequence it is following.
 
-**Some stufents are able to:**
+###Some stufents are able to:
 
 - Understand the limitations of computers in comparison with human intelligence when following a sequence of instructions. 
 
 
-### Lesson Summary
+## Lesson Summary
 
 - The first Python program
 
-### Starter
+## Starter
 
 Direct students to a website containing a chat bot like [Elbot](http://www.elbot.com/) or display a website with a chat bot to the class. You could even use siri on an Apple OS device. 
 
@@ -46,7 +46,7 @@ Explain the concept of the [Turing Test](http://en.wikipedia.org/wiki/Turing_tes
 Why not? Draw out from questioning that computers execute or run programs that follow a sequence of instructions, and that they can only follow this sequence. 
 
 
-### Main Development
+## Main Development
 
 1. Ask students to set up their Raspberry Pi equipment, turn it on and log into their Pi using the username `pi` and the password `raspberry`
 
@@ -95,12 +95,12 @@ Why not? Draw out from questioning that computers execute or run programs that f
 
 8. Continue with the students writing code to gain user input and post information tot he screen. Then ask students to save their work and shut down the Raspberry Pis by clicking on the **Shutdown** button on the desktop.
 
-### Plenary
+## Plenary
 
 Ask students to choose three new words they have learnt today or in the last few lessons and define them. Then ask students to write a paragraph for each of the words (or one using all three at once).
 
 
-### Homework
+## Homework
 
 Students should think of five questions that they would like their chatting robot to ask ready for the next lesson.
 
