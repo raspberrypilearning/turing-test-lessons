@@ -2,16 +2,16 @@
 
 ## Connecting your Raspberry Pi
 
-The Raspberry Pi is a barebones computer. It’s really pretty useless on its own. In order to program sounds with it, we need to connect a number of things to it:
+The Raspberry Pi is a bare bones computer. It’s not much use on its own. In order to program a chatting robot with it, we need to connect a number of things to it:
 
 - **An SD card**. This card contains the programs that can be loaded onto the Raspberry Pi in order for it to do things. You need to slide the card into the slot with the metal pins facing in towards the Raspberry Pi. The label should be visible when it is inserted.
-- **A keyboard**. Plug the keyboard into one of the two USB slots. USB stands for Universal Serial Bus. It’s a kind of connector for all sorts of devices. The keyboard will be the main tool we will use to communicate our programs to the Raspberry Pi.
-- **A mouse**. Plug the mouse into the other of the two USB slots.
+- **A keyboard**. Plug the keyboard into one of the two USB ports. USB stands for Universal Serial Bus. It’s a kind of connector for all sorts of devices. The keyboard will be the main tool we will use to communicate our programs to the Raspberry Pi.
+- **A mouse**. Plug the mouse into the other of the two USB ports.
 - **A sound splitter**. This is a cable that will split the audio signal two ways. Plug this into the
 audio jack on the Raspberry Pi.
 - **Headphones**. These will allow you to hear the sound you will produce. Plug these into the sound splitter.
 - **A monitor**. This will allow you to see the program you’re currently creating. Plug the HDMI connector into the Raspberry Pi’s HDMI port. Plug the other end of the HDMI cable into your monitor. You’ll want to make sure you have power to the monitor, that it’s switched on and that it’s set to view what comes in on the HDMI cable (typically the digital option).
-- **A power adapter**. Plug the power adapter into a socket and then the small USB connector into the Raspberry Pi. When you turn the socket switch on, you should see the Raspberry Pi flash and text should appear on the monitor.
+- **A power adaptor**. Plug the power adaptor into a socket and then the small USB connector into the Raspberry Pi. When you turn the socket switch on, you should see the Raspberry Pi flash and text should appear on the monitor.
 
 ## Logging In
 
@@ -21,8 +21,7 @@ audio jack on the Raspberry Pi.
 
 ## Starting the Graphical Environment
 
-The strange text prompt that you see is one of the most powerful ways to communicate with a computer. However, it’s not very easy and is full of strange arcane commands - much like the contents of a magic spell. We can therefore move to a more familiar graphical environment with windows and menu bars that may perhaps feel a bit more comfortable. To do this: 
-1. Type the magic spell `startx` into the text terminal and press **Enter**.
+The strange text prompt that you see is one of the most powerful ways to communicate with a computer. However, it’s not very easy and is full of strange arcane commands, much like the contents of a magic spell. We can therefore move to a more familiar graphical environment, with windows and menu bars, that may perhaps feel a bit more comfortable. To do this, type the magic spell `startx` into the text terminal and press **Enter**.
 
 ## Starting the Python 3 Programming Environment
 
@@ -30,9 +29,9 @@ Once the graphical environment has started, you can click on the **start menu** 
 
 ![](idle3.png)
 
-## Writing a simple program
+## Writing a Simple Program
 
-You are going to write a program to make a drawing of a shape.
+You are going to write a program to ask the user some questions and respond to them.
 
 1. Start by opening a new text editor window by clicking on **File** and **New Window**.
 
@@ -43,49 +42,48 @@ You are going to write a program to make a drawing of a shape.
 	
 	# My Python Program by ....
 	
-	name = input('what is your name: '),
+	name = input("what is your name: ")
 	print("Nice to meet you ", name)
 	```
 	
 	*Note that the spaces before `"` in the string are important.*
 	
-	Save the file as a python file by clicking on **File** then **Save As** and naming it **robot**.
+	Save the file as a Python file by clicking on **File** then **Save As**, and name it **robot**.
 	
-	Then run the file by clicking on **Run** then **Run Module**
+	Then run the file by clicking on **Run** then **Run Module**.
 	
 	![](program-1.png)
 	
 	What happened?
 	
 
-3. Now add your own input and print statements perhaps asking for the users age, or their favourite colour. For example adding:
+3. Now add your own input and `print` statements, perhaps asking for the user's age or their favourite colour. For example, you could add:
 
 	```python
 	
-	age = input('How old are you: ')
+	age = input("How old are you: ")
 	print("You do not look like you are aged ", age)
 	```
 	
-	*Don't forget to save and test your code after each questions.*
+	*Don't forget to save and test your code after each question.*
 	
 	![](program-2.png)
 	
-4. In a conversation there is usually a pause between answering a question and asking the next one. The goal is to create a chatting robot that might be confused for a real person, therefore we need to place a pause in between the questions. 
+4. In a conversation there is usually a pause between answering a question and asking the next one. The goal is to create a chatting robot that might be confused for a real person; therefore, we need to place a pause in between the questions. This can be achieved using the `time` module.
 
-	This can be achieved using the **time module**. 
 	
-	Add the module by typing `import time` underneath the comment at the top of the program and before the questions. Then between the questions type `time.sleep(1)` where the value `1` represents 1 second like this:
+	Add the module by typing `import time` underneath the comment at the top of the program and before the questions. Then between the questions type `time.sleep(1)`, where the value `1` represents 1 second, like this:
 	
 	```python
 	# My Python Program by...
 	import time
 	
-	name = input('What is your name')
+	name = input("What is your name")
 	print("Nice to meet you ", name)
 	
 	time.sleep(1)
 	
-	age = input('How old are you: ')
+	age = input("How old are you: ")
 	print("You do not look like you are aged ", age)
 	```
 
