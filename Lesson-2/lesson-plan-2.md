@@ -5,14 +5,14 @@
 This lesson will give an introduction to Python programming by writing a simple program to take user input, and then print statements to the screen. It builds on lesson 1 using IDLE 3 to program in Python 3.
 
 
-## Learning Objectives
+## Learning objectives
 
-- Know how to debug code
-- Understand the differences between speaking to a human and speaking to a computer program
-- Be able to create and debug a simple computer program in Python using `print` and user input
+- Know how to debug code.
+- Understand the differences between speaking to a human and speaking to a computer program.
+- Be able to create and debug a simple computer program in Python, using `print` and user input.
 
 
-## Learning Outcomes
+## Learning outcomes
 
 ###All students are able to:
 
@@ -28,7 +28,7 @@ This lesson will give an introduction to Python programming by writing a simple 
 - Understand the limitations of computers, compared to human intelligence, when following a sequence of instructions. 
 
 
-## Lesson Summary
+## Lesson summary
 
 - The first Python program
 
@@ -43,11 +43,11 @@ Ask the students why is it so hard for programs like these to understand and int
 Explain the concept of the [Turing test](http://en.wikipedia.org/wiki/Turing_test) and artificial intelligence. Explain that in this lesson, students will add text-to-speech to their Python programs on the Raspberry Pi to turn them into a chatting robot.
 
 
-## Main Development
+## Main development
 
 1. Ask students to set up their Raspberry Pi equipment, turn it on and log into their Pi using the username `pi` and the password `raspberry`.
 
-	*Note that students will not see any text when typing the password but assure them it is working. Why do they think this might be the case? Hint: what might happen if someone was looking over their shoulder?*
+	**Note that students will not see any text when typing the password but assure them it is working. Why do they think this might be the case? Hint: what might happen if someone was looking over their shoulder?**
 	
 2. Next, students should load the graphical environment by typing `startx`. To use Python, students will need to access the programming environment **IDLE3**. To open IDLE3, students can either double-click on the IDLE3 icon on the desktop or click on the main menu and select Programming, followed by IDLE 3.
 
@@ -67,7 +67,7 @@ Explain the concept of the [Turing test](http://en.wikipedia.org/wiki/Turing_tes
 	print("Nice to meet you ", name)
 	```
 	
-	*Note that the spaces before `"` in the string are important.*
+	**Note that the spaces before `"` in the string are important.**
 	
 	Save the file as a Python file by clicking on **File** then **Save As**, and name it **robot**.
 	
