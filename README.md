@@ -9,7 +9,7 @@ This scheme of work has been designed as an introduction to text-based programmi
 This scheme of work is specifically targeted towards introductory KS2 Computing, although these lessons could be used as a wider scheme of work at KS3. This has been developed in harmony with the new Computing curriculum in the UK.
 
 
-##Learning outcomes:
+##Learning outcomes
 
 Over the course of three lessons, students will learn:
 
@@ -29,8 +29,8 @@ Over the course of three lessons, students will learn:
 ###KS2: 
 
 - Design, write and debug programs that accomplish specific goals; solve problems by breaking them into smaller parts. Select, use and combine a variety of software on a range of digital devices to design and create a range of programs. 
-- Use sequence, selection and repetition in programs; work with variables and various forms of input and output
-- Use logical reasoning to explain how some simple algorithms work; detect and correct errors in algorithms and programs
+- Use sequence, selection and repetition in programs; work with variables and various forms of input and output.
+- Use logical reasoning to explain how some simple algorithms work; detect and correct errors in algorithms and programs.
 
 ###KS3:
  
@@ -50,7 +50,7 @@ For the majority of the lesson, it is suggested that work is carried out by stud
 - A headphone splitter connected to the Raspberry Pi audio jack per pair (from lesson 3 onwards)
 - A pair of headphones connected to the splitter per student (from lesson 3 onwards)
 
-*Note: These lessons will use Python 3*.
+**Note: These lessons will use Python 3**.
 
 See the [teacher setup instructions](/teacher-instructions.md) for more information.
 

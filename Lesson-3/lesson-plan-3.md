@@ -10,14 +10,14 @@ Students will need access to headphones in order to hear the sounds. You may als
 
 Finally, you will need to ensure that sound is being forced to the headphones rather than HDMI by typing `amixer cset numid=3 1`, or by double-clicking on the Python Games icon and selecting **Force Headphones**.
 
-## Learning Objectives
+## Learning objectives
 
-- Identify and use input and output devices on a Raspberry Pi
-- Be able to add code to chatting robot programs on the Raspberry Pi to allow text to be read aloud by it
-- Test and evaluate the chatting robot programs created so far
+- Identify and use input and output devices on a Raspberry Pi.
+- Be able to add code to chatting robot programs on the Raspberry Pi, to allow text to be read aloud by it.
+- Test and evaluate the chatting robot programs created so far.
 
 
-## Learning Outcomes
+## Learning outcomes
 
 ###All students are able to:
 
@@ -34,7 +34,7 @@ Finally, you will need to ensure that sound is being forced to the headphones ra
 - Devise ways to improve the chatting robot program through evaluation.
 
 
-## Lesson Summary
+## Lesson summary
 
 - A parts labelling activity 
 - Adding text-to-speech
@@ -63,7 +63,7 @@ After students have labelled the components, ask groups to explain their answers
 
 ![](audio_output.png)
 
-## Main Development
+## Main development
 
 1. Ask students to set up their Raspberry Pi equipment, turn it on and log into their Pi using the username `pi` and the password `raspberry`. They should then load their chatting robot programs using **IDLE3**.
 	
@@ -80,7 +80,7 @@ After students have labelled the components, ask groups to explain their answers
 	
 	robot("Hello")
 	```
-	*Note that the indentation is important; the text editor in IDLE3 should auto-indent for you. Also, the spacing and use of quotation marks is important. The program will not work without them.*    
+	**Note that the indentation is important; the text editor in IDLE3 should auto-indent for you. Also, the spacing and use of quotation marks is important. The program will not work without them.**    
 
 4. Ask students to save this as a new file by clicking on **File** and **Save As**, then name it **robot1**. They can then run their programs and they should hear a voice say "hello"!
 
