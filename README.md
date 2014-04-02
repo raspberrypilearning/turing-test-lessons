@@ -50,13 +50,13 @@ For the majority of the lesson, it is suggested that work is carried out by stud
 
 *Note: These lessons will use Python 3*.
 
-See the [teacher setup instructions](/teacher-instructions.md) for more information.
+See the [teacher setup instructions](teacher-instructions.md) for more information.
 
 ##Lessons
 
-- [Lesson 1: How do Computers Think?](/Lesson-1/lesson-plan-1.md)
-- [Lesson 2: Can Computers Think for Themselves?](/Lesson-2/lesson-plan-2.md)
-- [Lesson 3: Make a Chatting Robot](/Lesson-3/lesson-plan-3.md)
+- [Lesson 1: How do Computers Think?](Lesson-1/lesson-plan-1.md)
+- [Lesson 2: Can Computers Think for Themselves?](Lesson-2/lesson-plan-2.md)
+- [Lesson 3: Make a Chatting Robot](Lesson-3/lesson-plan-3.md)
 
 ## Licence
 
