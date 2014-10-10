@@ -1,16 +1,16 @@
-# Lesson 1 - How do Computers Think? 
+# Lesson 1 - How Do Computers Think? 
 
 ##Introduction
 
-How do computers think? In this lesson, students will consider how computers and robots need to follow a sequence of instructions to complete a task. Much of this lesson is dedicated to getting students using a Raspberry Pi for the first time, logging in, accessing IDLE3 and typing a small sequence of instructions to make a shape.
+How do computers think? In this lesson, students will consider how computers and robots need to follow a sequence of instructions to complete a task. Much of this lesson is dedicated to getting students using a Raspberry Pi for the first time, logging in, accessing IDLE3, and typing a small sequence of instructions to make a shape.
 
-## Learning Objectives
+## Learning objectives
 
 - Know that computers follow a sequence of instructions to make something happen.
 - Be able to set up a Raspberry Pi, and give a set of instructions in Python to make a shape.
 
 
-## Learning Outcomes
+## Learning outcomes
 
 ###All students are able to:
 
@@ -27,10 +27,10 @@ How do computers think? In this lesson, students will consider how computers and
 - Write a program to create a more complex shape.
 
 
-## Lesson Summary
+## Lesson summary
 
 - An introduction to the basic physical parts of a Raspberry Pi
-- A demonstration that the Raspberry Pi can behave like a traditional computer application
+- A demonstration that the Raspberry Pi can behave like a traditional computer
 - The first Python program
 
 ## Starter
@@ -43,7 +43,7 @@ After the race has been won, discuss any problems the teams encountered getting 
 
 Explain that a computer works by executing statements one after another in a specific order. A given order of statements is called a **program**. Each program executes with a given **control flow** ; this describes which statement we are executing, and what the next statement will be.
 
-## Main Development
+## Main development
 
 1. Have a demonstration Raspberry Pi already connected and the final chatting robot program running. Hold up a Raspberry Pi board and ask the students what they think it is. Explain that it’s actually a computer and that in the coming lessons we’re going to do something special with it. Instead of running apps and games other people have created for us, we’re going to learn to write our own software to make a robot that chats to us.
 
