@@ -53,7 +53,7 @@ Explain that a computer works by executing statements one after another in a spe
 
 	*Note that students will not see any text when typing the password but assure them it is working. Why do they think this might be the case? Hint: what might happen if someone was looking over their shoulder?*
 	
-3. Next, students should load the graphical environment by typing `startx`. Once the desktop has loaded, show students how to open **IDLE3** either by double-clicking on the desktop icon, or by clicking on the **Main Menu** followed by **Education** and selecting **IDLE3**.
+3. Next, students should load the graphical environment by typing `startx`. Once the desktop has loaded, show students how to open **IDLE3** either by double-clicking on the desktop icon, or by clicking on the **Main Menu** followed by **Programming** and selecting **IDLE3**.
 	
 	*Note that this series of lessons uses Python 3. If students run IDLE then their code may not run.*
 
