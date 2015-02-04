@@ -1,0 +1,2 @@
+- A headphone splitter connected to the Raspberry Pi audio jack per pair (from lesson 3 onwards)
+- A pair of headphones connected to the splitter per student (from lesson 3 onwards)
