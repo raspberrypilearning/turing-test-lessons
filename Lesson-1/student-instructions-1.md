@@ -62,4 +62,4 @@ You are going to write a program to make a drawing of a shape.
 	```
 	
 	What happens? What more would you need to type to make a square shape?		
-	![](images/robot-turtle.png)
+
