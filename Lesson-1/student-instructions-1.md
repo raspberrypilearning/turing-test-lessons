@@ -27,7 +27,7 @@ The strange text prompt that you see is one of the most powerful ways to communi
 
 Once the graphical environment has started, you can click on the **start menu** in the bottom left (it looks like a little bird) and choose **IDLE3** from the **Programming menu**. 
 
-![](idle3.png)
+![](images/idle3.png)
 
 ## Writing a Simple Program
 
@@ -62,4 +62,4 @@ You are going to write a program to make a drawing of a shape.
 	```
 	
 	What happens? What more would you need to type to make a square shape?		
-	![](robot-turtle.png)
+	![](images/robot-turtle.png)
