@@ -27,7 +27,7 @@ The strange text prompt that you see is one of the most powerful ways to communi
 
 Once the graphical environment has started, you can click on the **start menu** in the bottom left (it looks like a little bird) and choose **IDLE3** from the **Programming menu**. 
 
-![](idle3.png)
+![](images/idle3.png)
 
 ## Writing a Simple Program
 
@@ -52,7 +52,7 @@ You are going to write a program to ask the user some questions and respond to t
 	
 	Then run the file by clicking on **Run** then **Run Module**.
 	
-	![](program-1.png)
+	![](images/program-1.png)
 	
 	What happened?
 	
@@ -67,7 +67,7 @@ You are going to write a program to ask the user some questions and respond to t
 	
 	*Don't forget to save and test your code after each question.*
 	
-	![](program-2.png)
+	![](images/program-2.png)
 	
 4. In a conversation there is usually a pause between answering a question and asking the next one. The goal is to create a chatting robot that might be confused for a real person; therefore, we need to place a pause in between the questions. This can be achieved using the `time` module.
 
@@ -87,4 +87,4 @@ You are going to write a program to ask the user some questions and respond to t
 	print("You do not look like you are aged ", age)
 	```
 
-	![](program-3.png)
+	![](images/program-3.png)

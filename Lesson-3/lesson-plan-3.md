@@ -61,7 +61,7 @@ Allocate students to groups and give each group a different colour of sticky not
 
 After students have labelled the components, ask groups to explain their answers. Identify any which are incorrect or really interesting, and discuss the reasoning with the class. Explain that all computers have inputs and outputs. This is important to note for their chatting robot program, as they want to hear its speech outputting to headphones or a speaker.
 
-![](audio_output.png)
+![](images/audio_output.png)
 
 ## Main development
 
@@ -94,7 +94,7 @@ After students have labelled the components, ask groups to explain their answers
 	robot("Nice to meet you " + name)
 	```
 
-	![](espeak2.png)
+	![](images/espeak2.png)
 
 ## Plenary
 

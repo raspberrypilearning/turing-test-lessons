@@ -51,7 +51,7 @@ Explain the concept of the [Turing test](http://en.wikipedia.org/wiki/Turing_tes
 	
 2. Next, students should load the graphical environment by typing `startx`. To use Python, students will need to access the programming environment **IDLE3**. To open IDLE3, students can either double-click on the IDLE3 icon on the desktop or click on the **Main Menu** and select **Programming**, followed by **IDLE 3**.
 
-	![](idle3.png)
+	![](images/idle3.png)
 
 3. Demonstrate the IDLE interpreter window to students. Explain that commands can be typed directly into this window after the prompt which looks like this: `>>>`. This window is referred to as the interpreter or shell. You can type a line of code after this prompt and press Enter; this will run that line of code. You can demonstrate this with `print("Hello World!")`. Ask students what they could replace the "Hello World" with. Have them experiment using the interpreter window for a few minutes. Explain that the computer can only follow one instruction at a time in **sequence**. 
 
@@ -73,7 +73,7 @@ Explain the concept of the [Turing test](http://en.wikipedia.org/wiki/Turing_tes
 	
 	Then run the file by clicking on **Run** then **Run Module**.
 	
-	![](program-1.png)
+	![](images/program-1.png)
 
 6. Students can then add their own input and `print` statements, perhaps asking for the user's age or their favourite colour. For example, they could add:
 
@@ -84,11 +84,11 @@ Explain the concept of the [Turing test](http://en.wikipedia.org/wiki/Turing_tes
 	```
 	Direct students to save the file and run the code as before.
 	
-	![](program-2.png)
+	![](images/program-2.png)
 	
 7. Once students have working programs with multiple questions, introduce the idea of spacing out the questions asked with time. In a conversation, there is usually a pause between answering a question and asking the next one. The goal is to create a chatting robot that might be confused for a real person; therefore, we need to place a pause in between the questions. This can be achieved using the `time` module. To add the module, students will need to add `import time` underneath the comment and before the questions. Then between the questions they will need to use `time.sleep(1)`, where the value 1 represents 1 second, like this:
 
-	![](program-3.png)
+	![](images/program-3.png)
 
 8. Allow the students to continue writing code to take user input and post information to the screen. Then ask students to save their work and shut down the Raspberry Pis by clicking on the **Shutdown** button on the desktop.
 
