@@ -54,9 +54,9 @@ See the [teacher setup instructions](teacher-instructions.md) for more informati
 
 ##Lessons
 
-- [Lesson 1: How do Computers Think?](Lesson-1/lesson-plan-1.md)
-- [Lesson 2: Can Computers Think for Themselves?](Lesson-2/lesson-plan-2.md)
-- [Lesson 3: Make a Chatting Robot](Lesson-3/lesson-plan-3.md)
+- [Lesson 1: How do Computers Think?](lesson-1/lesson.md)
+- [Lesson 2: Can Computers Think for Themselves?](lesson-2/lesson.md)
+- [Lesson 3: Make a Chatting Robot](lesson-3/lesson.md)
 
 ## Licence
 

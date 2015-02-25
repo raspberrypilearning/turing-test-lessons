@@ -32,7 +32,7 @@ Instructions for best practice on [downloading and installing NOOBS can be read 
 2. After booting and logging in you can type the following line on the command line: `amixer cset numid=3 1`.
 3. Alternatively you can load the desktop by typing `startx`, double-clicking on the **Python Games** icon, selecting **Force headphones** and clicking **OK**.
 
-	![](Lesson-3/audio_output.png)
+	![](lesson-3/images/audio_output.png)
 	
 ## Making a class set of SD cards
 
