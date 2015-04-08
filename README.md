@@ -1,8 +1,6 @@
 # The Turing Test
 
-![](robot.png)
-
-## Introduction
+![](cover.png)
 
 This scheme of work has been designed as an introduction to text-based programming using Python on the Raspberry Pi. By the end of all the lessons, students will have created an interactive chat bot and been introduced to the computer science concept of artificial intelligence.
 
