@@ -1,4 +1,4 @@
-# Student Instructions 1
+# Lesson 1: How do Computers Think?
 
 ## Connecting your Raspberry Pi
 
