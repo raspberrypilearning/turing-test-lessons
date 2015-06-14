@@ -25,7 +25,7 @@ The strange text prompt that you see is one of the most powerful ways to communi
 
 ## Starting the Python 3 Programming Environment
 
-Once the graphical environment has started, you can click on the **start menu** in the bottom left (it looks like a little bird) and choose **IDLE3** from the **Programming menu**. 
+Once the graphical environment has started, you can click on the **main menu** at the top of the screen and choose **Python 3** from the **Programming menu**. This will open the Python programming environment known as **IDLE3**.
 
 ![](images/idle3.png)
 
