@@ -2,7 +2,7 @@
 
 ##Introduction
 
-How do computers think? In this lesson, students will consider how computers and robots need to follow a sequence of instructions to complete a task. Much of this lesson is dedicated to getting students using a Raspberry Pi for the first time, logging in, accessing IDLE3, and typing a small sequence of instructions to make a shape.
+How do computers think? In this lesson, students will consider how computers and robots need to follow a sequence of instructions to complete a task. Much of this lesson is dedicated to getting students using a Raspberry Pi for the first time, logging in, accessing Python 3 or IDLE3, and typing a small sequence of instructions to make a shape.
 
 ## Learning objectives
 
