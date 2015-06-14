@@ -53,11 +53,11 @@ Explain that a computer works by executing statements one after another in a spe
 
 	*Note that students will not see any text when typing the password but assure them it is working. Why do they think this might be the case? Hint: what might happen if someone was looking over their shoulder?*
 	
-3. Next, students should load the graphical environment by typing `startx`. Once the desktop has loaded, show students how to open **IDLE3** either by double-clicking on the desktop icon, or by clicking on the **Main Menu** followed by **Programming** and selecting **IDLE3**.
+3. Next, students should load the graphical environment by typing `startx`. Once the desktop has loaded, show students how to open **Python 3** or **IDLE3** by clicking on the **Main Menu** followed by **Programming** and selecting **Python 3**.
 	
 	*Note that this series of lessons uses Python 3. If students run IDLE then their code may not run.*
 
-4. Explain to students that **IDLE3** is an application or environment that allows you to write a simple program using the programming language **Python**. It allows you to write, edit and run code. 
+4. Explain to students that **Python 3** or **IDLE3** is an application or environment that allows you to write a simple program using the programming language **Python**. It allows you to write, edit and run code. 
 
 5. Show students how to draw a shape by typing a sequence of instructions, line by line. See the [Student Instructions](student-instructions-1.md) for the steps required to complete this task.
 
