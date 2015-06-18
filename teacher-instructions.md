@@ -16,7 +16,7 @@ For lesson 3 students will need this additional equipment:
 
 ## Downloading and installing NOOBS
 
-Instructions for best practice on [downloading and installing NOOBS can be read here](https://github.com/raspberrypi/documentation/blob/master/installation/noobs.md).
+Instructions for best practice on [downloading and installing NOOBS can be read here](http://www.raspberrypi.org/help/noobs-setup/).
 
 
 ## Downloading and installing espeak
