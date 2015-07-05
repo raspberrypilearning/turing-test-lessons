@@ -59,7 +59,7 @@ Explain that a computer works by executing statements one after another in a spe
 
 4. Explain to students that **Python 3** or **IDLE3** is an application or environment that allows you to write a simple program using the programming language **Python**. It allows you to write, edit and run code. 
 
-5. Show students how to draw a shape by typing a sequence of instructions, line by line. See the [Student Instructions](student-instructions-1.md) for the steps required to complete this task.
+5. Show students how to draw a shape by typing a sequence of instructions, line by line. See the [Student Instructions](worksheet.md) for the steps required to complete this task.
 
 6. Ask students to shut down their Raspberry Pis by clicking on the **Shut Down** icon on the desktop. 
 
