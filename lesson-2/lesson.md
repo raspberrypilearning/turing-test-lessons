@@ -45,7 +45,7 @@ Explain the concept of the [Turing test](http://en.wikipedia.org/wiki/Turing_tes
 
 ## Main development
 
-1. Ask students to set up their Raspberry Pi equipment, turn it on and log into their Pi using the username `pi` and the password `raspberry`. See [student instructions here](/lesson1/worksheet.md).
+1. Ask students to set up their Raspberry Pi equipment, turn it on and log into their Pi using the username `pi` and the password `raspberry`. See [student instructions here](../lesson1/worksheet.md).
 
 	*Note that students will not see any text when typing the password but assure them it is working. Why do they think this might be the case? Hint: what might happen if someone was looking over their shoulder?*
 	
