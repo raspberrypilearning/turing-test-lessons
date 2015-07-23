@@ -12,4 +12,4 @@
 2. After booting and logging in you can type the following line on the command line: `amixer cset numid=3 1`.
 3. Alternatively you can load the desktop by typing `startx`, double-clicking on the **Python Games** icon, selecting **Force headphones** and clicking **OK**.
 
-	![](lesson-3/images/audio_output.png)
+	![](/lesson-3/images/audio_output.png)
