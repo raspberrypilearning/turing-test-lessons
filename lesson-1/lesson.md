@@ -35,7 +35,7 @@ How do computers think? In this lesson, students will consider how computers and
 
 ## Starter
 
-First nominate three or four students to act as robots, then divide the remaining students into three or four teams. Each team are in a race to see who can get a 'robot' around the classroom or 'maze'. Note that this could be an outdoor task. Explain to the 'robots' that they are to play dumb and only follow the instructions they are given. Then, begin the race.
+First, nominate three or four students to act as robots, then divide the remaining students into three or four teams. Each team are in a race to see who can get a 'robot' around the classroom or 'maze'. Note that this could be an outdoor task. Explain to the 'robots' that they are to play dumb and only follow the instructions they are given. Then, begin the race.
 
 Throughout the race, ensure that students are using instructions like "step forward 10 paces" or "turn 90 degrees to the right".
 
