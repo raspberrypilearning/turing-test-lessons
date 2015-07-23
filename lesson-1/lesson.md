@@ -41,7 +41,7 @@ Throughout the race, ensure that students are using instructions like "step forw
 
 After the race has been won, discuss any problems the teams encountered getting their robot to follow their instructions. Draw out through questioning that the robot could not make decisions for itself, and so the students had to be very specific about turns and steps.
 
-Explain that a computer works by executing statements one after another in a specific order. A given order of statements is called a **program**. Each program executes with a given **control flow** ; this describes which statement we are executing, and what the next statement will be.
+Explain that a computer works by executing statements one after another in a specific order. A given order of statements is called a **program**. Each program executes with a given **control flow**; this describes which statement we are executing, and what the next statement will be.
 
 ## Main development
 
@@ -51,11 +51,11 @@ Explain that a computer works by executing statements one after another in a spe
 
 2. Ask students to set up their Raspberry Pi equipment, turn it on and log into their Pi using the username `pi` and the password `raspberry`.
 
-	*Note that students will not see any text when typing the password but assure them it is working. Why do they think this might be the case? Hint: what might happen if someone was looking over their shoulder?*
+	**Note that students will not see any text when typing the password but assure them it is working. Why do they think this might be the case? Hint: what might happen if someone was looking over their shoulder?**
 	
 3. Next, students should load the graphical environment by typing `startx`. Once the desktop has loaded, show students how to open **Python 3** or **IDLE3** by clicking on the **Main Menu** followed by **Programming** and selecting **Python 3**.
 	
-	*Note that this series of lessons uses Python 3. If students run IDLE then their code may not run.*
+	**Note that this series of lessons uses Python 3. If students run IDLE then their code may not run.**
 
 4. Explain to students that **Python 3** or **IDLE3** is an application or environment that allows you to write a simple program using the programming language **Python**. It allows you to write, edit and run code. 
 
