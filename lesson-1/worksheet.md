@@ -5,8 +5,8 @@
 The Raspberry Pi is a bare bones computer. It’s not much use on its own. In order to program sounds with it, we need to connect a number of things to it:
 
 - **An SD card**. This card contains the programs that can be loaded onto the Raspberry Pi in order for it to do things. You need to slide the card into the slot with the metal pins facing in towards the Raspberry Pi. The label should be visible when it is inserted.
-- **A keyboard**. Plug the keyboard into one of the two USB ports. USB stands for Universal Serial Bus. It’s a kind of connector for all sorts of devices. The keyboard will be the main tool we will use to communicate our programs to the Raspberry Pi.
-- **A mouse**. Plug the mouse into the other of the two USB ports.
+- **A keyboard**. Plug the keyboard into one of the USB ports. USB stands for Universal Serial Bus. It’s a kind of connector for all sorts of devices. The keyboard will be the main tool we will use to communicate our programs to the Raspberry Pi.
+- **A mouse**. Plug the mouse into one of the other USB ports.
 - **A sound splitter**. This is a cable that will split the audio signal two ways. Plug this into the
 audio jack on the Raspberry Pi.
 - **Headphones**. These will allow you to hear the sound you will produce. Plug these into the sound splitter.
@@ -21,7 +21,7 @@ audio jack on the Raspberry Pi.
 
 ## Starting the Graphical Environment
 
-The strange text prompt that you see is one of the most powerful ways to communicate with a computer. However, it’s not very easy and is full of strange arcane commands, much like the contents of a magic spell. We can therefore move to a more familiar graphical environment, with windows and menu bars, that may perhaps feel a bit more comfortable. To do this, type the magic spell `startx` into the text terminal and press **Enter**.
+The strange text prompt that you see is one of the most powerful ways to communicate with a computer. However, it’s not very easy and is full of strange arcane commands, a bit like a magic spell. We can therefore move to a more familiar graphical environment, with windows and menu bars, that may perhaps feel a bit more comfortable. To do this, type the magic spell `startx` into the text terminal and press **Enter**.
 
 ## Starting the Python 3 Programming Environment
 
