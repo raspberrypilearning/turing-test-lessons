@@ -36,13 +36,13 @@ Finally, you will need to ensure that sound is being forced to the headphones ra
 
 ## Lesson summary
 
-- A parts labelling activity 
+- A parts-labelling activity 
 - Adding text-to-speech
 - Improved Python programs
 
 ## Starter
 
-Place at least four sets of the following out on desks unconnected, or however many you can find of each item from the list: 
+Place if possible four sets of the following out on desks, unconnected, or however many you can find of each item from the list: 
 
 - Raspberry Pi 
 - Speaker
@@ -80,7 +80,7 @@ After students have labelled the components, ask groups to explain their answers
 	
 	robot("Hello")
 	```
-	*Note that the indentation is important; the text editor in IDLE3 should auto-indent for you. Also, the spacing and use of quotation marks is important. The program will not work without them.*    
+	**Note that the indentation is important; the text editor in IDLE3 should auto-indent for you. Also, the spacing and use of quotation marks is important. The program will not work without them.**    
 
 4. Ask students to save this as a new file by clicking on **File** and **Save As**, then name it **robot1**. They can then run their programs and they should hear a voice say "hello"!
 
