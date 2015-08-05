@@ -21,7 +21,7 @@ audio jack on the Raspberry Pi.
 
 ## Starting the Graphical Environment
 
-The strange text prompt that you see is one of the most powerful ways to communicate with a computer. However, it’s not very easy and is full of strange arcane commands, a bit like a magic spell. We can therefore move to a more familiar graphical environment, with windows and menu bars, that may perhaps feel a bit more comfortable. To do this, type the magic spell `startx` into the text terminal and press **Enter**.
+The strange text prompt that you see is one of the most powerful ways to communicate with a computer. However, it’s not very easy and is full of strange arcane commands, a bit like a magic spell. We can therefore move to a more familiar graphical environment, with windows and menu bars, that may perhaps feel a bit more comfortable. To do this, type `startx` into the text terminal and press **Enter**.
 
 ## Starting the Python 3 Programming Environment
 
