@@ -36,7 +36,7 @@ This lesson will give an introduction to Python programming by writing a simple 
 
 Direct students to a website containing a chat bot like [Elbot](http://www.elbot.com/), or display a website with a chat bot to the class. You could even use Siri on an Apple device. 
 
-Students may ask questions to the chat bot. Ask them to note any answers that don’t quite match the questions; for example, "who is the best football player in the world?". After a few minutes have the students feed back in a whole-class discussion. The teacher should note some of the questions that may have confused the chat bot. Draw out from students any themes, or any reasons why they think the chat bot could not answer their questions as they would expect.
+Students may put questions to the chat bot. Ask them to note any answers that don’t quite match the questions; for example, "who is the best football player in the world?". After a few minutes, have the students feed back in a whole-class discussion. The teacher should note some of the questions that may have confused the chat bot. Draw out from students any themes, or any reasons why they think the chat bot could not answer their questions as they would expect.
 
 Ask the students why it is so hard for programs like these to understand and interact with humans. Why is it so easy to confuse them? Draw out from questioning that computers execute or run programs that follow a sequence of instructions, and that they can only follow this sequence. 
 
