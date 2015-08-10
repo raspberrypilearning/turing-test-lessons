@@ -1,4 +1,4 @@
-# Lesson 1: How do Computers Think?
+# Lesson 1 - How do Computers Think?
 
 ## Connecting your Raspberry Pi
 
