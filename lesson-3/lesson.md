@@ -1,4 +1,4 @@
-# Lesson 3 - Turning Text Into Sound
+# Lesson 3 - Make a chatting robot
 
 ## Introduction
 
