@@ -8,3 +8,7 @@ Through this scheme of work, students will learn:
  - Debugging
  - User input
  - Print statements
+
+This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
+
+- [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator)
